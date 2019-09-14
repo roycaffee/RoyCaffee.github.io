@@ -8,6 +8,9 @@ I am the proud caretake of a boxer/terrior mix named Spazz who is the single mos
 
 [Linkedin](https://www.linkedin.com/in/roy-caffee-b0059a97)
 
+Support your local
+![alt text](https://pearlsofprofundity.files.wordpress.com/2013/07/wounded-warrior-project-4a.jpg "WWP")
+
 ### Course Expectations
 
 My decision to enroll in a Python course was completely due to the needed units for my degree.
