@@ -6,6 +6,7 @@ Prior to my military experience I had been building PC’s and networks as a sid
 
 I am the proud caretake of a boxer/terrior mix named Spazz who is the single most important thing in my life. I have traveled all over the world with him and have a tattoo from every place I have been.
 
+https://www.linkedin.com/in/roy-caffee-b0059a97
 
 ### Course Expectations
 
@@ -21,8 +22,8 @@ The following items could be factors that would lead to me not doing well in the
 
 ### Links for personal use
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
  [editor on GitHub](https://github.com/roycaffee/RoyCaffee.github.io/edit/master/index.md)
+ 
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
