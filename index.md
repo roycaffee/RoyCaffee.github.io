@@ -11,7 +11,7 @@ I am the proud caretake of a boxer/terrior mix named Spazz who is the single mos
 
 My decision to enroll in a Python course was completely due to the needed units for my degree.
 
-*The following items could be factors that would lead to me not doing well in the class:
+The following items could be factors that would lead to me not doing well in the class:
   1.	My lack of experience with any form of coding
   2.	Lack of very well-defined structure from one point to another in the class ie: we do this for this reason and this for this reason
   3.	To many group projects – I am still learning how to re-integrate with people and being forced into to many group setting will actually cause me to recoil away.
