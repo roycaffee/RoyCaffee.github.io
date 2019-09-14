@@ -6,7 +6,7 @@ Prior to my military experience I had been building PC’s and networks as a sid
 
 I am the proud caretake of a boxer/terrior mix named Spazz who is the single most important thing in my life. I have traveled all over the world with him and have a tattoo from every place I have been.
 
-https://www.linkedin.com/in/roy-caffee-b0059a97
+[Linkedin](https://www.linkedin.com/in/roy-caffee-b0059a97)
 
 ### Course Expectations
 
