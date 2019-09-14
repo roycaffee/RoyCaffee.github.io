@@ -17,7 +17,9 @@ The following items could be factors that would lead to me not doing well in the
   3.	To many group projects – I am still learning how to re-integrate with people and being forced into to many group setting will actually cause me to recoil away.
   4.	I am an extremely straightforward thinking individual which makes coming up with ideas that are not based on a given work topic or given work documentations is virtually impossible for me. IE: I have no imagination at all. If asked a question or told to do something I answer as directly as possible and I do exactly what was ask down to every detail with no deviations.
 
-### Support or Contact
+
+
+### Links for personal use
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
